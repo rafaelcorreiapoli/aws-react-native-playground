@@ -1,0 +1,22 @@
+{
+	"ProjectName": "HelloWorld",
+	"ProjectPath": "/Users/rafaelribeirocorreia/dev/mobile-hub/HelloWorld",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-01-31-00-59-56",
+	"LastConfigurationTime": "2018-01-31-01-00-01",
+	"LastNPMInstallTime": "2018-01-31-01-06-30",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastBuildTime": "2018-01-31-02-25-41",
+	"BackendLastUpdateTime": "2018-01-31-02-27-24",
+	"BackendLastUpdateSuccessful": true,
+	"BackendProjectID": "5241299f-bc01-43c3-bd99-cb257ea241fb",
+	"BackendProjectName": "HelloWorld",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/5241299f-bc01-43c3-bd99-cb257ea241fb/build",
+	"BackendProjectCreationTime": "2018-01-31T02:56:09.984Z",
+	"BackendProjectLastUpdatedTime": "2018-01-31T04:26:08.467Z"
+}
